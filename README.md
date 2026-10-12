@@ -1,4 +1,4 @@
-# C Programming Journey
+# My C Programming Journey
 
 Welcome to my C programming journey!
 
